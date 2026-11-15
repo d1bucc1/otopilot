@@ -37,11 +37,11 @@ Aşağıdakilerin **yalnızca ilk ikisi zorunlu.** Gerisi ne yapmak istediğine 
 
 ### 1. Çalıştır (zorunlu, 1 dakika)
 
-Ai Infapp, [otopilot](https://github.com/wj-sidiss/otopilot) deposunun `ai-infapp/`
+Ai Infapp, [otopilot](https://github.com/d1bucc1/otopilot) deposunun `ai-infapp/`
 klasörüdür; kendi başına çalışır (bu klasör için `npm install` gerekmez).
 
 ```bash
-git clone https://github.com/wj-sidiss/otopilot.git
+git clone https://github.com/d1bucc1/otopilot.git
 cd otopilot/ai-infapp
 ```
 

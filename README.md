@@ -42,7 +42,7 @@ bitmiş MP4 + SRT + kapak (JPG) + YAYIN-PAKETI.md (başlık, açıklama, bölüm
 **Windows:** depoyu indir, **PANEL.bat**'a çift tıkla. Node.js (en az 22), ffmpeg ve paketler eksikse kurulur — **sistem yazılımı kurmadan önce sana sorar** (E/H). Panel aynı pencerede çalışır; beklenmedik kapanırsa 3 sn sonra kendini yeniden başlatır. Tarayıcı, sunucu gerçekten cevap verince bir kez açılır.
 
 ```bash
-git clone https://github.com/wj-sidiss/otopilot.git
+git clone https://github.com/d1bucc1/otopilot.git
 ```
 
 **Mac / Linux (deneysel):** kod `process.platform`'a göre font ve klasör açma komutunu seçer, ama Windows dışında yeterince denenmedi.
